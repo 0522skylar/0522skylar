@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 👀如果你有任何问题或者想要交流，都可以随时联系我。
 
-[Read my weekly](tab:https://skylarweekly.bearblog.dev/)
+[Read my weekly](https://skylarweekly.bearblog.dev)
 
 ![light](https://raw.githubusercontent.com/0522skylar/0522skylar/output/github-contribution-grid-snake.svg) 
